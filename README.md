@@ -1,7 +1,7 @@
 backboneComputedProperty
 ========================
 
-An implementation of computed properties for Backbone.js
+An small and simple implementation of computed properties for Backbone.js
 
 Inspired by computed properties in Ember.js
 and dependency injection Angular.js.
@@ -9,6 +9,10 @@ and dependency injection Angular.js.
 Prior Art:
 
  * [Backbone mailing list thread: Backbone.Model Computed Attributes](https://groups.google.com/forum/#!searchin/backbonejs/computed$20property/backbonejs/B21PIFVRvoA/wjG6ZbDqfccJ)
+ * [Blog post: Backbone.js computed properties](http://kilon.org/blog/2012/02/backbone-calculated-fields/)
+ * [GitHub: kdocki / backbone.model.computed](https://github.com/kdocki/backbone.model.computed)
+ * [GitHub: phdesign / Backbone.Spark](https://github.com/phdesign/Backbone.Spark)
+ * [GitHub Gist: tjbladez / computed.coffee](https://gist.github.com/tjbladez/2637522)
 
 By Curran Kelleher 3/23/2014
 
